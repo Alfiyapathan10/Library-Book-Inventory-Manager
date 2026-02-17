@@ -3,7 +3,7 @@
 
 A command-line based Library Book Inventory Manager built using Python.
 This project allows users to manage books efficiently by adding, searching, issuing, and returning books while storing data persistently using JSON.
-It demonstrates the use of Object-Oriented Programming (OOP), file handling, and dictionary-based data structures (HashMap-like lookup).
+It demonstrates the use of Object-Oriented Programming (OOP), file handling, and dictionary-based data structures (HashMap-like lookup)
 
 🚀 Features
 
